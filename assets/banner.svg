@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Safwan — MSc Artificial Intelligence, Heriot-Watt University Dubai">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#080D17"/>
+      <stop offset="55%" stop-color="#0C1524"/>
+      <stop offset="100%" stop-color="#0A1A22"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#34D399" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#34D399" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#94A3B8" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#34D399"/>
+      <stop offset="60%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <rect width="1200" height="340" fill="url(#grid)"/>
+  <ellipse cx="1040" cy="40" rx="420" ry="300" fill="url(#glowA)"/>
+  <ellipse cx="120" cy="330" rx="380" ry="240" fill="url(#glowB)"/>
+
+  <!-- network motif -->
+  <g stroke="#34D399" stroke-opacity="0.30" stroke-width="1.1" fill="none">
+    <path d="M905 96 L1005 62 L1092 118 L1012 168 L905 96"/>
+    <path d="M905 96 L1012 168 L1000 252 L1092 118"/>
+    <path d="M1000 252 L892 214 L905 96"/>
+    <path d="M1012 168 L1128 186 M1000 252 L1128 186 M1092 118 L1128 186"/>
+  </g>
+  <g fill="#34D399">
+    <circle cx="905" cy="96" r="4.5" fill-opacity="0.9"/>
+    <circle cx="1005" cy="62" r="3.5" fill-opacity="0.6"/>
+    <circle cx="1092" cy="118" r="5" fill-opacity="0.85"/>
+    <circle cx="1012" cy="168" r="6" fill-opacity="1"/>
+    <circle cx="1000" cy="252" r="3.5" fill-opacity="0.55"/>
+    <circle cx="892" cy="214" r="3" fill-opacity="0.5"/>
+    <circle cx="1128" cy="186" r="4" fill-opacity="0.7"/>
+  </g>
+
+  <g font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif">
+    <text x="64" y="86" fill="#34D399" font-size="15" letter-spacing="4.2" font-weight="600">HERIOT-WATT UNIVERSITY DUBAI · MSC ARTIFICIAL INTELLIGENCE</text>
+
+    <text x="60" y="176" fill="#F8FAFC" font-size="72" font-weight="700" letter-spacing="-1.5">Safwan</text>
+
+    <rect x="64" y="200" width="180" height="3" rx="1.5" fill="url(#rule)"/>
+
+    <text x="64" y="242" fill="#CBD5E1" font-size="24" font-weight="400">Applied ML · retrieval systems · automation engineering</text>
+
+    <g>
+      <circle cx="70" cy="288" r="6" fill="#34D399"/>
+      <text x="88" y="295" fill="#8CA3B8" font-size="17">Open to AI / ML engineering roles in the UAE</text>
+    </g>
+  </g>
+</svg>
