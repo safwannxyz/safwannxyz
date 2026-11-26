@@ -22,14 +22,31 @@ I think it means, and leaving a README that lets someone else run the thing with
 
 ### Selected work
 
-| Project | What it does | Built with |
-| :-- | :-- | :-- |
-| **[ClientFlow AI](https://github.com/safwannxyz/clientflow-ai)** | Business automation platform: intake triage, KYC checks, contract clause review, CV rubric scoring, stalled-work watchdog — every outbound artefact is an approval row | `Python` `SQLite` `scikit-learn` `Docker` |
-| **[CRM Opportunity Tracker](https://github.com/safwannxyz/crm-opportunity-tracker)** | Full-stack CRM for tracking sales opportunities through each pipeline stage | `React` `Node` `Express` `MongoDB` |
-| **[Bone-fracture recovery system](https://github.com/safwannxyz/Bone-fracture-recovery-system)** | Regression model estimating expected recovery from knee-injury patient data | `Python` `scikit-learn` `pandas` |
-| **[Water level monitoring (IoT)](https://github.com/safwannxyz/Water-Level-Monitoring-System-IOT)** | Sensor rig with live level readings and alerting — built during a MakeSkilled internship | `C++` `Python` `ESP32` |
+- **[ClientFlow AI](https://github.com/safwannxyz/clientflow-ai)** — Business automation platform: intake triage,
+  KYC pack checks, contract clause review, CV rubric scoring, stalled-work watchdog. Durable job queue with
+  retries and a dead-letter box, append-only audit log, and every outbound artefact is an approval row.
+  `Python` `SQLite` `scikit-learn` `Docker`
+- **[CRM Opportunity Tracker](https://github.com/safwannxyz/crm-opportunity-tracker)** — Full-stack CRM that moves
+  opportunities through each pipeline stage, with auth and a REST API behind it. `React` `Node` `Express` `MongoDB`
+- **[Bone-fracture recovery system](https://github.com/safwannxyz/Bone-fracture-recovery-system)** — Regression
+  model estimating expected recovery from knee-injury patient data. `Python` `scikit-learn` `pandas`
+- **[Water level monitoring (IoT)](https://github.com/safwannxyz/Water-Level-Monitoring-System-IOT)** — Sensor rig
+  with live level readings and alerting, built during a MakeSkilled internship. `C++` `Python` `ESP32`
 
-<sub>Coursework repositories stay private until they're marked; happy to walk through any of them on request.</sub>
+<details>
+<summary><b>Coursework repositories</b> — private until marking, walkthrough on request</summary>
+
+<br>
+
+- **Multi-view embroidery defect detection** (F21DL, group PG18) — does photographing fabric from 45° and 60°
+  beat the straight-on 90° view? 1,080 images, two hypotheses, a proper evaluation protocol, and a report
+  that says where the data was messier than advertised.
+- **MLP trained by particle swarm optimisation** (F21BC) — network and optimiser written as separate,
+  independently testable modules; 880 runs of a hyperparameter grid, with logistic regression and k-NN on the
+  same split so the numbers have a floor to beat.
+- **Java Swing coursework** (F21SF) — layered application in the module's house style, 43 JUnit tests.
+
+</details>
 
 ### Toolbox
 
@@ -56,10 +73,6 @@ I think it means, and leaving a README that lets someone else run the thing with
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=safwannxyz&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=0B1220&title_color=34D399&icon_color=22D3EE&text_color=C9D1D9">
     <img src="https://github-readme-stats.vercel.app/api?username=safwannxyz&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=FFFFFF&title_color=059669&icon_color=0891B2&text_color=334155" alt="Safwan's GitHub stats">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=safwannxyz&layout=compact&hide_border=true&langs_count=6&bg_color=0B1220&title_color=34D399&text_color=C9D1D9">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safwannxyz&layout=compact&hide_border=true&langs_count=6&bg_color=FFFFFF&title_color=059669&text_color=334155" alt="Most used languages">
   </picture>
 </p>
 
