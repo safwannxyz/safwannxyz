@@ -65,15 +65,6 @@ LLMs, a bit of everything — and writing down what worked and what didn't.
   <img alt="Linux" src="https://img.shields.io/badge/Linux-0B1220?style=flat-square&logo=linux&logoColor=FCC624">
 </p>
 
-### Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=safwannxyz&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=0B1220&title_color=34D399&icon_color=22D3EE&text_color=C9D1D9">
-    <img src="https://github-readme-stats.vercel.app/api?username=safwannxyz&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=FFFFFF&title_color=059669&icon_color=0891B2&text_color=334155" alt="Safwan's GitHub stats">
-  </picture>
-</p>
-
 ---
 
 <sub>Dubai, UAE · English, Hindi, Urdu, Telugu · still learning, happy to be corrected on anything here</sub>
