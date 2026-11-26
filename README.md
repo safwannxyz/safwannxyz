@@ -4,22 +4,20 @@
 
 #### MSc Artificial Intelligence student at Heriot-Watt University Dubai.
 
-Computer science background. I'm working through applied machine learning and retrieval, plus the parts
-that don't fit into a tutorial: cleaning the data, checking what a metric actually measures, and
-writing enough down that someone else could run it.
+Computer science background, now studying AI. I learn by building small projects — machine learning,
+LLMs, a bit of everything — and writing down what worked and what didn't.
 
 ---
 
 ### Currently
 
-- **Multi-view embroidery defect detection** — F21DL group coursework. Testing whether a second camera
-  angle helps tell good embroidery from defective embroidery, and whether some angles are harder than others.
+- **Multi-view embroidery defect detection** — F21DL group coursework. Does a second camera angle help
+  tell good embroidery from defective embroidery?
 - **ClientFlow AI** — a side project: five small business automations on a job queue, with an approval step
   before anything goes out.
-- **MLP trained by particle swarm optimisation** — F21BC coursework. Network and optimiser kept as separate
-  modules, with logistic regression and k-NN on the same split for comparison.
-- **Reading up on** retrieval-augmented generation and agentic retrieval — chunking, evaluation, and where it
-  breaks.
+- **MLP trained by particle swarm optimisation** — F21BC coursework. The network and the optimiser are kept
+  as separate pieces, and compared against logistic regression and k-NN.
+- **Reading up on** LLMs and RAG — chunking, evaluation, and where it breaks.
 
 ### Projects
 
